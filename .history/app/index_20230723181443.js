@@ -20,10 +20,7 @@ const Home = () => {
                     headerLeft: () => (
                         <ScreenHeaderBtn iconUrl={icons.menu} dimension="60%" />
                     ),
-                    headerRight: () => (
-                        <ScreenHeaderBtn iconUrl={icons.profile} dimension="100%" />
-                    ),
-                    headerTitle: "",
+                    
                 }}
             />
         </SafeAreaView>
