@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "React_Native_ITC",
+    "slug": "React_Native_ITC",
+    "plugins": [
+      "expo-router"
+    ]
+  }
+}
